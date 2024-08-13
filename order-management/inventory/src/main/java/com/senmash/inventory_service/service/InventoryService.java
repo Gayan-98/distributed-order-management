@@ -38,7 +38,7 @@ public class InventoryService {
 
     public String deleteItem(Integer itemId) {
         inventoryRepository.deleteById(itemId);
-        return "Item deleted";
+        return "Item deleted successfully";
     }
 
     public InventoryDTO getItemById(Integer itemId) {
