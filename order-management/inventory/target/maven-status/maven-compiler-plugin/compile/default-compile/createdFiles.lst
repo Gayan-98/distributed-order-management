@@ -1,0 +1,7 @@
+com\senmash\inventory_service\service\InventoryService$1.class
+com\senmash\inventory_service\controller\InventoryController.class
+com\senmash\inventory_service\repository\InventoryRepository.class
+com\senmash\inventory_service\model\Inventory.class
+com\senmash\inventory_service\service\InventoryService.class
+com\senmash\inventory_service\dto\InventoryDTO.class
+com\senmash\inventory_service\InventoryServiceApplication.class

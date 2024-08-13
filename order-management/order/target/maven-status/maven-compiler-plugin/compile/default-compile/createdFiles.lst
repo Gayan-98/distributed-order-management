@@ -1,0 +1,7 @@
+com\senmash\order_service\repository\OrderRepository.class
+com\senmash\order_service\dto\OrderDto.class
+com\senmash\order_service\model\Orders.class
+com\senmash\order_service\service\OrderService.class
+com\senmash\order_service\service\OrderService$1.class
+com\senmash\order_service\controller\OrderController.class
+com\senmash\order_service\OrderServiceApplication.class

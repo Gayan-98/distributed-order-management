@@ -1,0 +1,7 @@
+com\senmash\product_service\ProductServiceApplication.class
+com\senmash\product_service\controller\ProductController.class
+com\senmash\product_service\service\ProductService.class
+com\senmash\product_service\dto\ProductDTO.class
+com\senmash\product_service\repository\ProductRepository.class
+com\senmash\product_service\service\ProductService$1.class
+com\senmash\product_service\model\Product.class
